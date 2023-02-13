@@ -1,0 +1,15 @@
+.card{
+    width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.card img{
+    width: 100%;
+}
+
+/* добавить компонент ProductContainer */
+/* перенести в него сетевой запрос */
+/* добавить в него state и загрузку товаров из API в стейт */
+/* пользуясь map отобразить карточки */
